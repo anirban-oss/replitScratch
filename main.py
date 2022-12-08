@@ -21,3 +21,6 @@ with open("100MostStreamedSongs.csv") as file:
     f.close()
 
     print()
+
+
+print('printing for test purposes only.')
